@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitcoinMultiSigTranscation", "BitcoinMultiSigTranscation.csproj", "{E1438C7B-C52D-42B8-BD5F-DFE3B7B4F099}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1438C7B-C52D-42B8-BD5F-DFE3B7B4F099}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1438C7B-C52D-42B8-BD5F-DFE3B7B4F099}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1438C7B-C52D-42B8-BD5F-DFE3B7B4F099}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1438C7B-C52D-42B8-BD5F-DFE3B7B4F099}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F4039B6-D539-4572-9ED5-201227E82DDF}
+	EndGlobalSection
+EndGlobal
